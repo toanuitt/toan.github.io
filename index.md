@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+### Welcome to My profile's page
+# Information
+-Name:Phạm Đức Toàn
 
-You can use the [editor on GitHub](https://github.com/toanuitt/toan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+-Birth:23/02/2003
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-Place:Sông cầu,Phú Yên
 
-### Markdown
+# Study
+-University of information technology
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-![Image](https://lh3.googleusercontent.com/proxy/Svu6DXsJ3CRN9xWE0_-XGG0Atn1WeB7ofpBaZqfAs0P8x4ru-c3W1LoIDl_-5GtQaHtNkdWBfWudFfl3pUqGJIB6qOn6-YmqY-zpbc_4iAJmHW4vEhTa9yJN34q1-4fBPYJ5)
 
-```markdown
-Syntax highlighted code block
+# Knowlegde
+-C++,Python
 
-# Header 1
-## Header 2
-### Header 3
+-Photoshop
 
-- Bulleted
-- List
+# What I'm up to
+-Learning about AI
 
-1. Numbered
-2. List
+-Coding
 
-**Bold** and _Italic_ and `Code` text
+# Contact me:
+-[Facebook](https://www.facebook.com/profile.php?id=100012665323930)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/toanuitt/toan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-Email:21521550@gm.uit.edu.vn.
